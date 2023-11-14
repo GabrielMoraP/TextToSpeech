@@ -14,4 +14,4 @@ winReadFile -> Read with voice a txt file
 If you want to chage the voice you can change It in the configurations of Windows
 Configs>Narrator|Text to voice
 
-Download Jar File:
+Download Jar File: [Releases](https://github.com/GabrielMoraP/TextToSpeech/releases).
