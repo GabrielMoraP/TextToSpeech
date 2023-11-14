@@ -1,17 +1,17 @@
 # Version 1.0
 
-Library Text to Speech for Java that use the Default SAPI of the System.
+Library Text to Speech for Java that use the Default SAPI of the System.<br>
 
-This Project Was Created By Gabriel Mora Patino.
-Tested: jdk 21
-OS: Windows 7,8,8.1,10 (Futere Support on Mac and Linux)
+This Project Was Created By Gabriel Mora Patino.<br>
+Tested: jdk 21<br>
+OS: Windows 7,8,8.1,10 (Futere Support on Mac and Linux)<br>
 
-Documentatios:
-Narrator: This class contains the following methods
-winTextRead: Read with voice a String text
-winReadFile: Read with voice a txt file
+Documentatios:<br>
+Narrator: This class contains the following methods<br>
+winTextRead: Read with voice a String text<br>
+winReadFile: Read with voice a txt file<br>
 
-If you want to chage the voice you can change It in the configurations of Windows
+If you want to chage the voice you can change It in the configurations of Windows<br>
 Configs>Narrator|Text to voice
 
 Download Jar File, Source Code: [Releases](https://github.com/GabrielMoraP/TextToSpeech/releases).
