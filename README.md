@@ -7,7 +7,7 @@ Tested: jdk 21
 OS: Windows 7,8,8.1,10 (Futere Support on Mac and Linux)
 
 Documentatios:
-Narrator => This clas contains the following methods
+Narrator => This class contains the following methods
 winTextRead -> Read with voice a String text
 winReadFile -> Read with voice a txt file
 
