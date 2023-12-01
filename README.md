@@ -1,7 +1,7 @@
 # Version 1.0
 Library Text to Speech for Java that use the Default SAPI of the System.<br>
 
-# Credits
+# Requirements
 This Project Was Created By Gabriel Mora Patino.<br>
 Tested: jdk 21<br>
 OS: Windows 7,8,8.1,10 (Futere Support on Mac and Linux)<br>
